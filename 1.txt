@@ -1,6 +1,6 @@
 下载网址  https://git-scm.com/download/win
 链接命令 git config--global user.name '您的GITHUB用户名'
-git config--global user.name '您的GITHUB邮箱地址'
+git config--global user.email '您的GITHUB邮箱地址'
 
 命令：
 -mkdir 在该目录下创建文件夹
@@ -13,3 +13,5 @@ git status 把文件从工作去上传到暂存区
 git add index.php  添加文件
 git status 把文件上传到
 git clone 仓库地址  克隆仓库地址
+git push 同步到仓库 
+如果代码敲错 CTRL+C恢复正常
