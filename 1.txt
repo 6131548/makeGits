@@ -1,0 +1,4 @@
+下载网址  https://git-scm.com/download/win
+链接命令 git config--global user.name '您的GITHUB用户名'
+git config--global user.name '您的GITHUB邮箱地址'
+mkdir 在该目录下创建文件夹
