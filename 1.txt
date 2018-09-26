@@ -12,3 +12,4 @@ touch index.php 生成一个index.php文件
 git status 把文件从工作去上传到暂存区
 git add index.php  添加文件
 git status 把文件上传到
+git clone 仓库地址  克隆仓库地址
