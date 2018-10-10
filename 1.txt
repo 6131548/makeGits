@@ -27,3 +27,4 @@ git config user.name //查看有户名
 $ git config --list --global //查看用户资料
  git config --global --unset user.name wxd //注销用户名
 git config --get user.name //查看用户名
+git config --global alias.ci commit //设置命令别名（此处是讲commit 设置成ci来替代）
