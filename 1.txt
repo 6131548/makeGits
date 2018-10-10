@@ -26,4 +26,4 @@ git config --global --add user.name 名字//添加用户名
 git config user.name //查看有户名
 $ git config --list --global //查看用户资料
  git config --global --unset user.name wxd //注销用户名
-
+git config --get user.name //查看用户名
