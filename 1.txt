@@ -19,3 +19,11 @@ git push 同步到仓库
 git remote  //查看远程信息
 git remote -v //查看更详细的信息
 //参考学习网址https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013760174128707b935b0be6fc4fc6ace66c4f15618f8d000
+查看git版本
+which -a git 
+git --version
+git config --global --add user.name 名字//添加用户名
+git config user.name //查看有户名
+$ git config --list --global //查看用户资料
+ git config --global --unset user.name wxd //注销用户名
+
